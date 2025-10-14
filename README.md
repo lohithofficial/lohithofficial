@@ -23,9 +23,7 @@
 ---
 
 ## 🧠 Professional Summary
-Passionate and results-driven **Full Stack Web Developer** building efficient, responsive, and visually appealing web applications.  
-Proficient in **React.js, JavaScript, Java, Spring Boot, HTML5, CSS3, and MySQL**.  
-Experienced in both **frontend** and **backend** development, and skilled in version control using **Git & GitHub**.
+<p>Passionate and results-driven **Full Stack Web Developer** building efficient, responsive, and visually appealing web applications.Proficient in **React.js, JavaScript, Java,Spring Boot, HTML5, CSS3, and MySQL**.Experienced in both **frontend** and **backend** development, and skilled in version control using **Git & GitHub**.</p>
 
 ---
 
