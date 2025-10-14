@@ -16,12 +16,13 @@
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 ---
 
 ## 🧠 Professional Summary
-Passionate and results-driven **Full Stack Web Developer** building efficient, responsive, and visually appealing web applications; proficient in **React.js, JavaScript, Java, Spring Boot, HTML5, CSS3, and MySQL**; experienced in both **frontend** and **backend** development, and skilled in version control using **Git & GitHub**.
+Passionate and results-driven **Full Stack Web Developer** building efficient, responsive, and visually appealing web applications; proficient in **React.js, JavaScript, Java, Python, Spring Boot, HTML5, CSS3, and MySQL**; experienced in both **frontend** and **backend** development, and skilled in version control using **Git & GitHub**.
 
 ---
 
@@ -31,7 +32,7 @@ Passionate and results-driven **Full Stack Web Developer** building efficient, r
 ---
 
 ## 💬 Ask Me About
-React.js • JavaScript • Java • HTML • CSS • MySQL • DSA • Git • GitHub  
+React.js • JavaScript • Java • Python • HTML • CSS • MySQL • DSA • Git • GitHub  
 
 📫 **Email:** [lohith2141@gmail.com](mailto:lohith2141@gmail.com)  
 📍 **Location:** Bengaluru, Karnataka  
@@ -49,9 +50,9 @@ React.js • JavaScript • Java • HTML • CSS • MySQL • DSA • Git • 
 
 ## ⚙️ Languages & Tools
 
-| ReactJS | JavaScript | Java | HTML | CSS | MySQL | Spring Boot | Git | GitHub |
-|:-------:|:----------:|:----:|:---:|:---:|:----:|:-----------:|:--:|:------:|
-| <img src="https://skillicons.dev/icons?i=react" width="50"/> | <img src="https://skillicons.dev/icons?i=js" width="50"/> | <img src="https://skillicons.dev/icons?i=java" width="50"/> | <img src="https://skillicons.dev/icons?i=html" width="50"/> | <img src="https://skillicons.dev/icons?i=css" width="50"/> | <img src="https://skillicons.dev/icons?i=mysql" width="50"/> | <img src="https://skillicons.dev/icons?i=spring" width="50"/> | <img src="https://skillicons.dev/icons?i=git" width="50"/> | <img src="https://skillicons.dev/icons?i=github" width="50"/> |
+| ReactJS | JavaScript | Java | Python | HTML | CSS | MySQL | Spring Boot | Git | GitHub |
+|:-------:|:----------:|:----:|:------:|:---:|:---:|:----:|:-----------:|:--:|:------:|
+| <img src="https://skillicons.dev/icons?i=react" width="50"/> | <img src="https://skillicons.dev/icons?i=js" width="50"/> | <img src="https://skillicons.dev/icons?i=java" width="50"/> | <img src="https://skillicons.dev/icons?i=python" width="50"/> | <img src="https://skillicons.dev/icons?i=html" width="50"/> | <img src="https://skillicons.dev/icons?i=css" width="50"/> | <img src="https://skillicons.dev/icons?i=mysql" width="50"/> | <img src="https://skillicons.dev/icons?i=spring" width="50"/> | <img src="https://skillicons.dev/icons?i=git" width="50"/> | <img src="https://skillicons.dev/icons?i=github" width="50"/> |
 
 ---
 
@@ -65,23 +66,11 @@ React.js • JavaScript • Java • HTML • CSS • MySQL • DSA • Git • 
 
 ## 🚀 Featured Projects
 
-**Task Buddy — React.js**  
-🔗 [Live Demo](https://lohithofficial.github.io/TaskBuddy-Project/)  
-- Built using React.js and localStorage API.  
-- Manage tasks with create, complete, and delete functionalities.  
-- Fully responsive, modern UI.
-
-**GitHub Username Finder — React.js**  
-🔗 [Live Demo](https://lohithofficial.github.io/Github-username-project/)  
-- Fetches GitHub user profiles via GitHub API.  
-- Displays repositories, followers, and profile stats.  
-- Clean, minimal, and responsive interface.
-
-**ToDo List Project — HTML/CSS/JS**  
-🔗 [Live Demo](https://lohithofficial.github.io/ToDo-List-Project/)  
-- Classic ToDo app with vanilla JavaScript.  
-- Persistent data using localStorage.  
-- Simple and mobile-friendly design.
+| Project | Tech Stack | Description | Live Demo |
+|:-------:|:----------:|:-----------:|:---------:|
+| **Task Buddy** | React.js, localStorage | Task management app with create, complete, and delete functionalities. Fully responsive and modern UI. | [View](https://lohithofficial.github.io/TaskBuddy-Project/) |
+| **GitHub Username Finder** | React.js, GitHub API | Fetches GitHub user profiles and displays repositories, followers, and stats. Clean and responsive interface. | [View](https://lohithofficial.github.io/Github-username-project/) |
+| **ToDo List Project** | HTML, CSS, JavaScript | Classic ToDo app with persistent localStorage data. Simple and mobile-friendly design. | [View](https://lohithofficial.github.io/ToDo-List-Project/) |
 
 ---
 
