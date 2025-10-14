@@ -6,9 +6,9 @@
 
 <div align="center"> 
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=80&color=000000&center=true&vCenter=true&width=600&lines=👋+HI,+I'M+LOHITH" alt="Typing LOHITH Animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=50&color=000000&center=true&vCenter=true&width=600&lines=👋+HI,+I'M+LOHITH" alt="Typing LOHITH Animation"/>
   </h1>
-  <h2 style="font-family: 'Poppins', sans-serif; font-size: 50px; font-weight: 600; color: #333333;"> Full Stack Web Developer </h2> 
+  <h2 style="font-family: 'Poppins', sans-serif; font-size: 40px; font-weight: 600; color: #333333;"> Full Stack Web Developer </h2> 
 </div>
 
 
