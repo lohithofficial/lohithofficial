@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Typing Animation Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&pause=500&color=000000&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+**LOHITH**;Full+Stack+Web+Developer&repeat=true" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&pause=300&color=000000&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+LOHITH;Full+Stack+Web+Developer&repeat=true" alt="Typing Animation"/>
 
 </div>
 
