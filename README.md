@@ -4,17 +4,7 @@
 <br>
 <br>
 
-<p align="center">
-<svg width="600" height="120">
-  <text x="0" y="80" font-family="Poppins, sans-serif" font-size="80" font-weight="800" fill="#000">
-    LOHITH
-    <animate attributeName="x" values="0;400;0" dur="2s" repeatCount="indefinite" />
-  </text>
-</svg>
-</p>
-
-<h2 align="center">Full Stack Web Developer</h2>
-
+<div align="center"> <h1 style="font-family: 'Poppins', sans-serif; font-size: 80px; font-weight: 800; color: #000000;"> 👋 Hi, I'm LOHITH </h1> <h2 style="font-family: 'Poppins', sans-serif; font-size: 50px; font-weight: 600; color: #333333;"> Full Stack Web Developer </h2> </div>
 
 
 
