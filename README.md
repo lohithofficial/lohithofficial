@@ -66,11 +66,24 @@ React.js • JavaScript • Java • Python • HTML • CSS • MySQL • DSA �
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | Description | Live Demo |
-|:-------:|:----------:|:-----------:|:---------:|
-| **Task Buddy** | React.js, localStorage | Task management app with create, complete, and delete functionalities. Fully responsive and modern UI. | [View](https://lohithofficial.github.io/TaskBuddy-Project/) |
-| **GitHub Username Finder** | React.js, GitHub API | Fetches GitHub user profiles and displays repositories, followers, and stats. Clean and responsive interface. | [View](https://lohithofficial.github.io/Github-username-project/) |
-| **ToDo List Project** | HTML, CSS, JavaScript | Classic ToDo app with persistent localStorage data. Simple and mobile-friendly design. | [View](https://lohithofficial.github.io/ToDo-List-Project/) |
+### 1. Task Buddy
+**Tech Stack:** React.js, localStorage  
+**Description:** A modern task management app that allows users to create, complete, and delete tasks. Fully responsive UI for seamless usage on desktop and mobile.  
+**Live Demo:** [Click Here](https://lohithofficial.github.io/TaskBuddy-Project/)
+
+---
+
+### 2. GitHub Username Finder
+**Tech Stack:** React.js, GitHub API  
+**Description:** Fetches GitHub user profiles and displays repositories, followers, and stats. Clean and minimal interface for easy navigation.  
+**Live Demo:** [Click Here](https://lohithofficial.github.io/Github-username-project/)
+
+---
+
+### 3. ToDo List Project
+**Tech Stack:** HTML, CSS, JavaScript  
+**Description:** Classic ToDo app with persistent localStorage data. Simple and mobile-friendly design for daily task management.  
+**Live Demo:** [Click Here](https://lohithofficial.github.io/ToDo-List-Project/)
 
 ---
 
