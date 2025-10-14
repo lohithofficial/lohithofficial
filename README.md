@@ -11,8 +11,6 @@
   <h2 style="font-family: 'Poppins', sans-serif; font-size: 40px; font-weight: 600; color: #333333;"> Full Stack Web Developer </h2> 
 </div>
 
-
-
 ---
 
 <p align="center">
@@ -70,24 +68,31 @@ React.js • JavaScript • Java • Python • HTML • CSS • MySQL • DSA �
 
 ## 🚀 Featured Projects
 
-### 1. Task Buddy
+<div align="left">
+
+### 🔹 Task Buddy
 **Tech Stack:** React.js, localStorage  
-**Description:** A modern task management app that allows users to create, complete, and delete tasks. Fully responsive UI for seamless usage on desktop and mobile.  
-**Live Demo:** [Click Here](https://lohithofficial.github.io/TaskBuddy-Project/)
+**Description:**  
+A modern task management app that allows users to **create, complete, and delete tasks**. Fully responsive UI for seamless usage on both desktop and mobile.  
+**Live Demo:** [🌐 Click Here](https://lohithofficial.github.io/TaskBuddy-Project/)
 
 ---
 
-### 2. GitHub Username Finder
+### 🔹 GitHub Username Finder
 **Tech Stack:** React.js, GitHub API  
-**Description:** Fetches GitHub user profiles and displays repositories, followers, and stats. Clean and minimal interface for easy navigation.  
-**Live Demo:** [Click Here](https://lohithofficial.github.io/Github-username-project/)
+**Description:**  
+Fetches GitHub user profiles and displays **repositories, followers, and stats**. Clean and minimal interface for easy navigation.  
+**Live Demo:** [🌐 Click Here](https://lohithofficial.github.io/Github-username-project/)
 
 ---
 
-### 3. ToDo List Project
+### 🔹 ToDo List Project
 **Tech Stack:** HTML, CSS, JavaScript  
-**Description:** Classic ToDo app with persistent localStorage data. Simple and mobile-friendly design for daily task management.  
-**Live Demo:** [Click Here](https://lohithofficial.github.io/ToDo-List-Project/)
+**Description:**  
+Classic ToDo app with persistent **localStorage** data. Simple, mobile-friendly design for daily task management.  
+**Live Demo:** [🌐 Click Here](https://lohithofficial.github.io/ToDo-List-Project/)
+
+</div>
 
 ---
 
