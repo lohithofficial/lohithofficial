@@ -4,13 +4,10 @@
 <br>
 <br>
 
-<div align="center"> <h1 style="font-family: 'Poppins', sans-serif; font-size: 80px; font-weight: 800; color: #000000;"> 👋 Hi, I'm LOHITH </h1> <h2 style="font-family: 'Poppins', sans-serif; font-size: 50px; font-weight: 600; color: #333333;"> Full Stack Web Developer </h2> </div>
-
-
-
-
-
-
+<div align="center"> 
+  <h1 style="font-family: 'Poppins', sans-serif; font-size: 80px; font-weight: 800; color: #000000;"> 👋 Hi, I'm LOHITH </h1> 
+  <h2 style="font-family: 'Poppins', sans-serif; font-size: 50px; font-weight: 600; color: #333333;"> Full Stack Web Developer </h2> 
+</div>
 
 ---
 
@@ -25,7 +22,6 @@
 
 ## 🧠 Professional Summary
 Passionate and results-driven **Full Stack Web Developer** building efficient, responsive, and visually appealing web applications; proficient in **React.js, JavaScript, Java, Spring Boot, HTML5, CSS3, and MySQL**; experienced in both **frontend** and **backend** development, and skilled in version control using **Git & GitHub**.
-
 
 ---
 
@@ -52,17 +48,10 @@ React.js • JavaScript • Java • HTML • CSS • MySQL • DSA • Git • 
 ---
 
 ## ⚙️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="50"/> ReactJS &nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="50"/> JavaScript &nbsp;
-  <img src="https://skillicons.dev/icons?i=java" width="50"/> Java &nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="50"/> HTML &nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="50"/> CSS &nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="50"/> MySQL &nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" width="50"/> Spring Boot &nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="50"/> Git &nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="50"/> GitHub
-</p>
+
+| ReactJS | JavaScript | Java | HTML | CSS | MySQL | Spring Boot | Git | GitHub |
+|:-------:|:----------:|:----:|:---:|:---:|:----:|:-----------:|:--:|:------:|
+| <img src="https://skillicons.dev/icons?i=react" width="50"/> | <img src="https://skillicons.dev/icons?i=js" width="50"/> | <img src="https://skillicons.dev/icons?i=java" width="50"/> | <img src="https://skillicons.dev/icons?i=html" width="50"/> | <img src="https://skillicons.dev/icons?i=css" width="50"/> | <img src="https://skillicons.dev/icons?i=mysql" width="50"/> | <img src="https://skillicons.dev/icons?i=spring" width="50"/> | <img src="https://skillicons.dev/icons?i=git" width="50"/> | <img src="https://skillicons.dev/icons?i=github" width="50"/> |
 
 ---
 
