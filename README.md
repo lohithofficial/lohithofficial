@@ -33,8 +33,18 @@ Passionate and results-driven **Full Stack Web Developer** building efficient, r
 
 ---
 
+## 💼 Portfolio
+<p align="center">
+  <a href="https://lohithofficial.github.io/MyPortfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-%23FF8C00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+**Check out my full portfolio** for all projects, skills, and achievements: [🌐 Visit Portfolio](https://lohithofficial.github.io/MyPortfolio/)
+
+---
+
 ## 💬 Ask Me About
-React.js • JavaScript • Java • Python • HTML • CSS • MySQL • DSA • Git • GitHub  
+React.js • JavaScript • Java • Python • HTML • CSS • MySQL • DSA • Git • GitHub • Portfolio  
 
 📫 **Email:** [lohith2141@gmail.com](mailto:lohith2141@gmail.com)  
 📍 **Location:** Bengaluru, Karnataka  
@@ -46,6 +56,7 @@ React.js • JavaScript • Java • Python • HTML • CSS • MySQL • DSA �
   <a href="https://github.com/Lohith" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lohithofficial7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/lohithofficial7_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://lohithofficial.github.io/MyPortfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF8C00?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
 
 ---
